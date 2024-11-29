@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Sobre mim:
 Olá!<br>Seja bem-vindo(a) ao meu humilde github.<br>Aqui posto alguns dos meus projetos pessoais.<br>Sou  graduada em Biologia bacharel, <br>e possuo pós em Geoprocessamento, área em que atuo<br>profissionalmente.<br>Atualmente estou cursando graduação em Sistemas<br>de Informação.<br>Além do conhecimento em SIG, também possuo <br>conhecimentos em python, SQL, javascript, GEE, HTML e CSS.<br>
 
 
